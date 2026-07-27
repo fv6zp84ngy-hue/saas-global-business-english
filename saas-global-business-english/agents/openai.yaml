@@ -1,0 +1,4 @@
+interface:
+  display_name: "SaaS 出海商业英文"
+  short_description: "把中文商业意图转化为自然、可信、可转化的海外英文内容"
+  default_prompt: "Use $saas-global-business-english to turn my Chinese SaaS business intent into audience-ready English content."
